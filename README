@@ -1,0 +1,6 @@
+This is a project to help the dubbing artists.
+
+They can load a file with timestamp and  the string to read.
+then they can record it.
+
+Finally, they will get a combined a single ogg file.
